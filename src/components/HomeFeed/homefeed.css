@@ -1,0 +1,60 @@
+.container {
+  border-radius: 20px;
+}
+
+.container p {
+  font-size: 13px;
+}
+.thumbnail {
+
+  position: relative;
+  margin: 0;
+}
+
+.thumbnail img {
+  max-height: 180px;
+  max-width: 350px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  margin: 0;
+}
+
+.thumbnail h3 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  text-align: center;
+  background-color: black;
+  height: 20px;
+  width: auto;
+}
+
+.channel {
+  display: flex;
+  align-items: center;
+  width: 286px;
+  justify-content: space-between;
+}
+
+.channel img {
+  height: 40px;
+  width: 40px;
+  border-radius: 40px;
+}
+
+ .channel .dot {
+  cursor: pointer;
+  width: 18px;
+  margin: 0;
+} 
+.channel-name-detials{
+     display: flex;
+     flex-direction: column;
+     width: 190px;
+}
+.detials {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    /* width: 286px; */
+}

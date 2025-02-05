@@ -1,0 +1,28 @@
+li{
+  display: flex;
+  align-items: center;
+  height: 35px;
+  margin-bottom: 10px;
+  margin-left: 7px;
+  border-radius: 10px ;
+  padding: 7px;
+  cursor: pointer;
+}
+li:hover{
+    background-color:#282828 ;
+}
+.icons{
+   font-size: 24px;
+   margin-left: 7px;
+   margin-right: 26px;
+}
+h3{
+  font-weight: 500;
+  font-size: 20px;
+}
+hr{
+   width: 200px;    
+   border-color:#3c3b3b;
+   margin-top: 5px;
+   margin-bottom: 5px;
+}

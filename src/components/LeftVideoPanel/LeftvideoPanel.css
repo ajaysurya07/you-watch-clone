@@ -1,0 +1,30 @@
+.LeftvideoPanel{
+  
+}
+.panelIcon{
+     font-size: 25px;
+}
+.likeButton{
+      border-right: 1px solid grey;
+      padding-right: 7px;
+}
+.likeDiv{
+     border-right:none ;
+     border-left:none;
+     border-radius:20px ;
+}
+.likeDiv span{
+      width:max-content;
+      max-width: 200px;
+}
+
+.likeDiv .left{  
+     width: 120px;
+     border-top-left-radius:20px ;
+     border-bottom-left-radius:20px;
+}
+.likeDiv .right{
+  width: 120px;
+  border-top-right-radius:20px ;
+  border-bottom-right-radius:20px;
+}

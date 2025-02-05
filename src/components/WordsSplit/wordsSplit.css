@@ -1,0 +1,7 @@
+.ellipsis {
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* Show only two lines */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

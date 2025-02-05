@@ -1,0 +1,28 @@
+.container{
+
+
+}
+.subContainer{
+  display: flex;
+  align-items: center;/* 
+  justify-content: center; */
+}
+
+.center{
+       border: 1px  solid;
+       border-radius: 20px;
+       padding-right: 10px;
+}
+.center input{
+  margin: 1.5px;
+  border: none;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  font-size:17px;
+}
+.center .icon{
+      font-size: 24px;
+}
+.right .icon{
+     font-size: 24px;
+}
